@@ -1,7 +1,7 @@
 # Mengimplementasikan 2 Input Control
 
-* [INPUT PHONE NUMBER]
-* [ALERT]
+* 🔢 [INPUT PHONE NUMBER]
+* ❗ [ALERT]
 
 ## Deskripsi
 
