@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <EditText
+        android:id="@+id/editText_main"
+        android:layout_width="276dp"
+        android:layout_height="67dp"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="-107dp"
+        android:background="@drawable/btn2"
+        android:hint="  Masukkan No. HP"
+        android:inputType="number" />
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="272dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/editText_main"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="99dp"
+        android:layout_marginBottom="-67dp"
+        android:background="@drawable/btn1"
+        android:onClick="onClickShowAlert"
+        android:text="Ok" />
+
+
+</RelativeLayout>
+

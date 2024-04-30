@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Nuraima.latihan</string>
+    <string name="show">Show</string>
+    <string name="enter">Enter a message</string>
+    <string name="hint_phonenumber">Enter phone number</string>
+    <string name="show_button">Show</string>
+    <string name="phonenumber_label">Phone Number:</string>
+    <string name="nothing_entered">Nothing entered.</string>
+    <string name="nothing_selected">onNothingSelected:</string>
+    <string name="alert_title">Telah berhasil dimasukkan!</string>
+    <string name="alert_message">by Nuraima</string>
+    <string name="pressed_cancel">Tekan cancel\n</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Terimakasih</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
